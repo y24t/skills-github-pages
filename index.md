@@ -2,4 +2,4 @@
 title: Welcome to my blog!
 ---
 
-skills github pages
+Contents: skills github pages
